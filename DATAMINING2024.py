@@ -4,7 +4,7 @@ import matplotlib.pyplot as plt
 import seaborn as sns
 
 # Load datasets
-bola = pd.read_csv('OSN Dataset Datmin.csv')
+bola = pd.read_excel('OSN Dataset Datmin.xlsx')
 data = pd.read_csv('data.csv')
 
 # Title and description
