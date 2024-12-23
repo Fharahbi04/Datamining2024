@@ -1,2 +1,2 @@
 
-pip install matplotlib.pyplot
+pip install matplotlib
